@@ -1,0 +1,2 @@
+Reserved,BufferName,Resize,Swap,Rawscale,Height,Width,transpose,Zero point,Mean value 0,Mean value 1,Mean value 2,Mean value 3,std value 0,std value 1,std value 2,std value 3
+inference1,Placeholder,1,0,256,224,224,-1,0,127,127,127,-1,127,127,127,-1

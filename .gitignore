@@ -1,0 +1,12 @@
+CMakeFiles/
+CMakeCache.txt
+CopyOfCMakeCache.**
+out/
+*.swp
+*.elf
+*.bin
+*.bak
+cmake_install.**
+cmake_uninstall.**
+*profiler_results*
+*CDNNExampleApplication*
